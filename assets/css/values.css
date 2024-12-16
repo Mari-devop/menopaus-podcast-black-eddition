@@ -3,7 +3,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 201px 183px;
+    padding: 125px 183px  0;
     gap: 62px;
     background-color: var(--main-bg-color);
 }
@@ -77,7 +77,7 @@
 
 @media screen and (max-width: 820px) {
     .values-section {
-        padding: 101px 50px;
+        padding: 101px 50px 0; 
     }
 }
 
@@ -89,7 +89,7 @@
 }
 @media screen and (max-width: 450px) {
     .values-section {
-        padding: 101px 20px;
+        padding: 101px 20px 0;
     }
 }
 @media screen and (max-width: 400px) {
